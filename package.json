@@ -1,0 +1,6 @@
+{
+  "name": "node-test",
+  "dependencies": {
+    "mongodb": "^2.1.18"
+  }
+}
