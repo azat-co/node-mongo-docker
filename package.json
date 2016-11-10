@@ -1,5 +1,8 @@
 {
   "name": "node-test",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon server.js"
+  },
   "dependencies": {
     "mongodb": "^2.1.18"
   }
